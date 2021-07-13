@@ -1,0 +1,23 @@
+img {
+  width: 40%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: darkslategrey;
+}
+
+#catButton {
+  width: 400px;
+  height: 100px;
+  border-radius: 5px;
+  background: rebeccapurple;
+  font-size: 200%;
+  color: springgreen;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
